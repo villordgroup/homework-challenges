@@ -4,7 +4,8 @@
 - Giải quyết bài toán bằng Python
 - Có sử dụng unittest
 - Kết quả đưa lên 1 repo Github
-- Thời gian tối đa là 6h, nếu chưa xong cũng ko sao vẫn cứ gửi kết quả là link Github
+- Thời gian tối đa là 6h, nếu chưa xong cũng ko sao vẫn cứ gửi kết quả là link Github tới dev@upinus.com
+- Mọi thắc mắc có thể contact với dev@upinus.com trực tiếp
 
 ## Đề bài:
 Một trong những tính năng của Upinus là giúp kết nối các chủ cửa hàng với các nhà cung cấp (suppliers).
@@ -13,7 +14,7 @@ Trước đây, mỗi nhân viên vận hành của Upinus phải thực hiện 
 
 Đây là công việc gây mất rất nhiều thời gian nhưng các nhân viên phải làm hằng ngày. Yêu cầu đưa ra là xây dựng 1 công cụ để giúp đỡ các nhân viên vận hành.
 
-Danh sách file cần: https://send.firefox.com/download/051c8cc1af522555/#sUtPaJQzo39Z89RXIjJK2A
+Danh sách file cần ở chung với guideline này.
 
 ## Đầu vào:
 Bao gồm 3 file csv chứa các thông tin giúp cho các nhân viên có thể chuyển tiếp đơn hàng:
