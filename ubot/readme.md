@@ -37,7 +37,7 @@ Note that the output is case-sensitive.
 A sample of a running script in a terminal with the input of RW15RW1:
 
 ```
-> php Upinusbot.php RW15RW1
+> python ubot.py RW15RW1
 > X: 15 Y: -1 Direction: South
 ```
 
