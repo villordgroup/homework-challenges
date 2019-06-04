@@ -29,7 +29,7 @@ Bao gồm 3 file csv chứa các thông tin giúp cho các nhân viên có thể
 
 ## Đầu ra:
 
-1. Một file zip gồm n folders để gửi cho n nhà cung cấp tương ứng và 1 file mang tên "error_order.csv" chứa các order không được phân về bất kỳ nhà cung cấp nào. Tên folder sẽ là ngày xử lý có định dạng là dd_mm_yyyy. Mỗi thư mục sẽ được đặt tên là tên của nhà cung cấp tương ứng.
+1. Một file zip gồm n folders để gửi cho n nhà cung cấp tương ứng và 1 file mang tên `error_order.csv` chứa các order không được phân về bất kỳ nhà cung cấp nào. Tên file zip sẽ là ngày xử lý có định dạng là `dd_mm_yyyy.zip` . Mỗi thư mục sẽ được đặt tên là tên của nhà cung cấp tương ứng.
 
 2. Mỗi folder sẽ bao gồm n files csv thể hiện mỗi sản phẩm (Mỗi sản phẩm có thể bao gồm nhiều biến thể với các mã sku khác nhau nhưng sẽ có tên viết tắt như nhau) được matching với supplier đó. Tên file sẽ phải tuân thủ quy tắc sau:
 
@@ -38,10 +38,10 @@ Bao gồm 3 file csv chứa các thông tin giúp cho các nhân viên có thể
 ```
 
 Trong đó:
-+ __<Product Name>__ là tên viết tắt của sản phẩm.
-+ __<Number Of Pieces>__ là số lượng sản phẩm được đặt hàng trong file
-+ __<Processing Date>__ là ngày tiến hành xử lý có định dạng dd.mm
-+ __<Supplier Name>__ là tên của nhà cung cấp sẽ xử lý
++ `<Product Name>` là tên viết tắt của sản phẩm.
++ `<Number Of Pieces>` là số lượng sản phẩm được đặt hàng trong file
++ `<Processing Date>` là ngày tiến hành xử lý có định dạng dd.mm
++ `<Supplier Name>` là tên của nhà cung cấp sẽ xử lý
 
 Ví dụ: Ipcase_173pcs_30.03_Alair.csv có nghĩa là:
 - là file đặt hàng cho các sản phẩm có tên viết tắt là Ipcase,
@@ -55,9 +55,9 @@ Ví dụ: Ipcase_173pcs_30.03_Alair.csv có nghĩa là:
 ```
 
 Trong đó:
-- __<a or b>__ là buổi tiến hành xử lý, a là buổi sáng, b là buổi chiều.
-- __<Processing Date>__ là ngày tiến hành xử lý và có định dạng là dd/mm
-- __<Supplier Name>__ là tên của nhà cung cấp sẽ xử lý đơn hàng.
+- `<a or b>` là buổi tiến hành xử lý, a là buổi sáng, b là buổi chiều.
+- `<Processing Date>` là ngày tiến hành xử lý và có định dạng là dd/mm
+- `<Supplier Name>` là tên của nhà cung cấp sẽ xử lý đơn hàng.
 
 Ví dụ:  `P b 30/03 Alair` thể hiện rằng đơn hàng này
 - được xử lý vào buổi chiều ngày 30/03
