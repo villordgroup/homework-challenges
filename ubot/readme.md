@@ -1,4 +1,13 @@
-# Upinus Backend Challenge - UBot
+# Upinus Challenge - UBot
+
+**Prerequisites:**
+- Solve this with Python3
+- Push your work to a Github repo, make sure you show progress with commits
+- Feel free to use the internet to look up any coding references
+- Please do not ask anyone else for help. We want to see how you code, it's more important.
+- Max time is 4 hours, don't worry if not done just stop wherever you're then send Github repo to dev@upinus.com
+
+---
 
 Upinus has built a robot called UBot which walks in 2-dimensional plane (X, Y coordinate).
 
@@ -50,11 +59,3 @@ LLW100W50RW200W10
 LLLLLW99RRRRRW88LLLRL
 W55555RW555555W444444W1
 ```
-
-Prerequisites:
-
-- Solve this with Python3
-- Push your work to a Github repo, make sure you show progress with commits
-- Feel free to use the internet to look up any coding references
-- Please do not ask anyone else for help. We want to see how you code, it's more important.
-- Max time is 4 hours, don't worry if not done just stop wherever you're then send Github repo to dev@upinus.com

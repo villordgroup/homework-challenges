@@ -1,4 +1,4 @@
-# Upinus Backend Challenge - Domain
+# Upinus Challenge - Domain
 
 ## Yêu cầu
 - Giải quyết bài toán bằng Python
