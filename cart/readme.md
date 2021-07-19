@@ -1,4 +1,4 @@
-# Upinus Challenge - Cart
+# JS Challenge - Cart
 
 **Prerequisites:**
 - Solve this with a `SPA lib/framework`, could be Vue, React, Angular.. your call, We're using VueJS 3 with Typescript.
