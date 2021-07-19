@@ -5,13 +5,13 @@
 - Có sử dụng unittest
 - Kết quả đưa lên 1 repo Github
 - Có thể tự do Google, Stackoverflow, ... nhưng đừng nhờ người khác làm hộ, chúng tôi muốn xem cách bạn code và xử lý vấn đề, nó quan trọng hơn!
-- Thời gian tối đa là 6h, nếu chưa xong cũng ko sao vẫn cứ gửi kết quả là link Github tới dev@upinus.com
-- Mọi thắc mắc có thể contact với dev@upinus.com trực tiếp
+- Thời gian tối đa là 6h, nếu chưa xong cũng ko sao vẫn cứ gửi kết quả là link Github tới xxx@xxx.com
+- Mọi thắc mắc có thể contact với xxx@xxx.com trực tiếp
 
 ## Đề bài:
-Một trong những tính năng của Upinus là giúp kết nối các chủ cửa hàng với các nhà cung cấp (suppliers).
+Một trong những tính năng của XXX là giúp kết nối các chủ cửa hàng với các nhà cung cấp (suppliers).
 
-Trước đây, mỗi nhân viên vận hành của Upinus phải thực hiện việc chuyển tiếp các đơn hàng của các chủ cửa hàng cho các nhà cung cấp để các nhà cung cấp đóng gói và chuyển hàng đến cho các khách hàng của chủ cửa hàng. Sẽ có rất nhiều các nhà cung cấp cùng cung cấp một sản phẩm và các nhân viên vận hành sẽ phải lựa chọn nhà cung cấp phù hợp cho mỗi đơn hàng.
+Trước đây, mỗi nhân viên vận hành của XXX phải thực hiện việc chuyển tiếp các đơn hàng của các chủ cửa hàng cho các nhà cung cấp để các nhà cung cấp đóng gói và chuyển hàng đến cho các khách hàng của chủ cửa hàng. Sẽ có rất nhiều các nhà cung cấp cùng cung cấp một sản phẩm và các nhân viên vận hành sẽ phải lựa chọn nhà cung cấp phù hợp cho mỗi đơn hàng.
 
 Đây là công việc gây mất rất nhiều thời gian nhưng các nhân viên phải làm hằng ngày. Yêu cầu đưa ra là xây dựng 1 công cụ để giúp đỡ các nhân viên vận hành.
 
